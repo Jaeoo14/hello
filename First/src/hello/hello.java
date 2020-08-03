@@ -9,7 +9,7 @@ public class hello {
 		System.out.println("qq dd.");
 		System.out.println("eeㅠㅠ.");
 		System.out.println("ff.");
-		System.out.println("dd.");
+		System.out.println("dd.dd");
 	
 	}
 }
